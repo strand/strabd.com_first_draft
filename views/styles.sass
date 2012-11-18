@@ -1,0 +1,58 @@
+$helvetica:		'Helvetica Neue', helvetica, arial, sans-serif
+$black:				#000000
+$dark-grey:		#666666
+$light-grey: 	#fafafa
+$green:				#009900
+
+body
+	background-color:			$light-grey
+
+
+@media screen and (min-width: 0px) // Partialize this please.
+	.content
+		margin: 							1.125em
+		h2
+			font-size: 					4em
+		p
+			margin:							0.5em 0
+			font-size:					1.75em
+
+@media screen and (min-width: 600px)
+	.content
+		margin: 							1.6875em
+		h2
+			font-size: 					6em
+		p
+			margin:							0.75em 0
+			font-size:					2.625em
+
+@media screen and (min-width: 1024px) // Laptop
+	.content
+		margin: 							2.25em
+		h2
+			font-size: 					8em
+		p
+			margin:							1em 0
+			font-size:					3.5em
+
+
+
+
+.content
+	font-family:					$helvetica
+	color:								$dark-grey
+	h2
+		font-style:					bold
+		font-weight: 				500
+	p
+
+		line-height:				1.25em
+		font-weight:				200
+		a
+			text-decoration: 	none
+			color:						mix($green, $dark-grey)
+			&:visited
+				color:					mix($green, $black)
+		em
+			font-style:				italic
+			font-size:				.75em

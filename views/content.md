@@ -1,7 +1,8 @@
 ## Strabd
 
-[Twitter](http://twitter.com/strabd)  
+[Make Better Mistakes](http://make.bettermistak.es/) _tech blog_  
 [Github](https://github.com/strand) _code repository_  
-[Make Better Mistakes](http://make.bettermistak.es/) _professional blog_  
-[Tumblr](strabd.tumblr.com) _casual blog_  
+[Twitter](http://twitter.com/strabd)  
+[Tumblr](http://strabd.tumblr.com) _casual blog_  
+
 [Livejournal](http://strand.livejournal.com/) _dormant_
